@@ -106,6 +106,6 @@ public class Morsecode {
                 System.out.println("Invalid Option");
                 break;
         }
-        s.close();
+        s.close();  
     }
 }
