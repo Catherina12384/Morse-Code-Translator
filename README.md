@@ -24,3 +24,6 @@ Upon running the application, you'll be presented with a menu to choose between 
   Converts text to Morse code by looking up each character in the morse map.
 ### Decrypt Method: 
   Converts Morse code back to text by looking up each Morse code sequence in the Rev_morse map.
+
+## Output:
+![image](https://github.com/user-attachments/assets/d1907013-515c-4fd1-8ce7-1593fb010626)
